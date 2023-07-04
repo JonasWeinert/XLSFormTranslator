@@ -2,6 +2,10 @@
 
 This is a python application that helps in translating XLSForm documents from English to a target language of your choice using Google's translation API. It is especially useful for researchers or data scientists who deal with XLSForm documents in different languages.
 
+
+#### ⭐ If you like this tool, please give it a star:-)
+
+
 ## Prerequisites
 
 The application requires the following:
@@ -13,7 +17,7 @@ The application requires the following:
 
 ## Installation
 
-- Clone this repository.
+- Fork this repository.
 - Install the required Python libraries. For this, you can use the command: `pip install pandas google-cloud-translate openpyxl`
 
 ## Setup
