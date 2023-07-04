@@ -1,6 +1,6 @@
-# XLSForm Translator App
+# XLSForm Translator 
 
-This is a python application that helps in translating XLSForm documents from English to a target language of your choice using Google's translation API. It is especially useful for researchers or data scientists who deal with XLSForm documents in different languages.
+This is a python script that helps in translating XLSForm documents from English to a target language of your choice using Google's translation API. It is especially useful for researchers or data scientists who deal with XLSForm documents in different languages.
 
 
 #### ⭐ If you like this tool, please give it a star:-)
@@ -8,8 +8,9 @@ This is a python application that helps in translating XLSForm documents from En
 
 ## Prerequisites
 
-The application requires the following:
+The script requires the following:
 
+- A Jupyter notebook (You can also use Collab).
 - Python 3.6 or higher.
 - Pandas Python Library.
 - Google Cloud Translate API.
