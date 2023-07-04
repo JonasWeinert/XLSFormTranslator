@@ -18,7 +18,7 @@ The application requires the following:
 ## Installation
 
 - Fork this repository.
-- Install the required Python libraries. For this, you can use the command: `pip install pandas google-cloud-translate openpyxl`
+- Install the required Python libraries. For this, you can use the command: `pip install pandas google-cloud-translate openpyxl` in your environment or `!pip install pandas google-cloud-translate openpyxl` in your Jupyter notebook.
 
 ## Setup
 
